@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Administardor de peliculas", "Administardor de peliculas.csproj", "{8F94D0AC-172D-4507-8F47-200A7B4A9686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F94D0AC-172D-4507-8F47-200A7B4A9686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F94D0AC-172D-4507-8F47-200A7B4A9686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F94D0AC-172D-4507-8F47-200A7B4A9686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F94D0AC-172D-4507-8F47-200A7B4A9686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833313C2-4C6D-4A78-A3F3-2B6FD69CC1DF}
+	EndGlobalSection
+EndGlobal
